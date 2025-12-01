@@ -1,0 +1,5 @@
+torch
+safetensors
+gguf
+numpy
+tqdm

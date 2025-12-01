@@ -33,9 +33,8 @@ Z image turbo因其尺寸小、真实性高、出图快的特点，一上线便�
 
 ## 🖼️ 界面截图 (Screenshot)
 
-<!-- 请将此处的图片链接替换为您自己的截图 -->
-![GUI Screenshot]([https://user-images.githubusercontent.com/your-username/your-repo/assets/screenshot.png](https://github.com/XinYu-pumch/ZFusion/blob/main/gguf.png))
 
+![image](https://github.com/XinYu-pumch/ZFusion/blob/main/gguf.png)
 ## 🎯 解决的痛点 (Pain Points Solved)
 
 | 痛点 (Before)                                                | Z-Fusion 解决方案 (After)                                    |

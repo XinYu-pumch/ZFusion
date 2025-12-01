@@ -18,7 +18,9 @@ Z image turbo因其尺寸小、真实性高、出图快的特点，一上线便�
 它的唯一使命就是：提供一个无缝、一键式的解决方案，让任何人都能轻松地将基础模型和 LoRA 转化为一个**直接可用**的、经过量化的 GGUF 文件。
 
 注1：**本项目中处理的z image的lora由ai-toolkit产生，如云部署可参考**：https://www.xiangongyun.com/image/detail/835c05d8-d906-412e-a80f-6694475e5da7
+
 **sd-scripts来源的lora未测试过**
+
 注2：大显存电脑（如M4 pro 48G）无需运行本项目，若不爆显存，自测量化后无法给模型出图加速
 
 ## ✨ 核心功能 (Core Features)

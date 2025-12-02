@@ -57,8 +57,8 @@ Z image turbo因其尺寸小、真实性高、出图快的特点，一上线便�
 
 1.  **克隆或下载仓库**
     ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
+    git clone https://github.com/XinYu-pumch/ZFusion
+    cd ZFusion
     ```
 
 2.  **安装依赖**
